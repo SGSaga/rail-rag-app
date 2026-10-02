@@ -7,9 +7,9 @@ A personal learning project: a retrieval-augmented generation (RAG) app that tak
 ---
 
 ## What you need
-- Python (already installed)
-- PyCharm Community (already installed)
-- An OpenAI API key (you have one)
+- Python
+- PyCharm Community
+- An OpenAI API key
 
 ---
 
