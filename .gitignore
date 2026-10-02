@@ -1,0 +1,14 @@
+# Never commit your API key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local vector store
+chroma_db/
+
+# PyCharm
+.idea/

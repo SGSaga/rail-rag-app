@@ -1,0 +1,248 @@
+{
+  "sample_size": 20,
+  "severity_accuracy_exact": 0.7,
+  "severity_accuracy_within_one": 1.0,
+  "root_cause_accuracy": 0.9,
+  "severity_confusion_matrix": {
+    "low": {
+      "low": 5,
+      "medium": 3,
+      "high": 0,
+      "other": 0
+    },
+    "medium": {
+      "low": 0,
+      "medium": 8,
+      "high": 1,
+      "other": 0
+    },
+    "high": {
+      "low": 0,
+      "medium": 2,
+      "high": 1,
+      "other": 0
+    }
+  },
+  "rows": [
+    {
+      "id": "INC-2024-0015",
+      "type": "rolling_stock",
+      "true_severity": "low",
+      "pred_severity": "low",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "software fault",
+      "pred_root_cause": "software fault",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0004",
+      "type": "level_crossing",
+      "true_severity": "medium",
+      "pred_severity": "medium",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "equipment failure",
+      "pred_root_cause": "equipment failure",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0036",
+      "type": "level_crossing",
+      "true_severity": "high",
+      "pred_severity": "medium",
+      "severity_ok": false,
+      "severity_distance": 1,
+      "true_root_cause": "equipment failure",
+      "pred_root_cause": "public misuse",
+      "root_cause_ok": false
+    },
+    {
+      "id": "INC-2024-0032",
+      "type": "track_defect",
+      "true_severity": "medium",
+      "pred_severity": "medium",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "ground movement",
+      "pred_root_cause": "ground movement",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0029",
+      "type": "signal_passed_at_danger",
+      "true_severity": "medium",
+      "pred_severity": "high",
+      "severity_ok": false,
+      "severity_distance": 1,
+      "true_root_cause": "distraction",
+      "pred_root_cause": "distraction",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0018",
+      "type": "rolling_stock",
+      "true_severity": "low",
+      "pred_severity": "medium",
+      "severity_ok": false,
+      "severity_distance": 1,
+      "true_root_cause": "sensor failure",
+      "pred_root_cause": "sensor_failure",
+      "root_cause_ok": false
+    },
+    {
+      "id": "INC-2024-0014",
+      "type": "slips_trips",
+      "true_severity": "medium",
+      "pred_severity": "medium",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "damaged flooring",
+      "pred_root_cause": "damaged flooring",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0070",
+      "type": "rolling_stock",
+      "true_severity": "low",
+      "pred_severity": "medium",
+      "severity_ok": false,
+      "severity_distance": 1,
+      "true_root_cause": "maintenance overdue",
+      "pred_root_cause": "maintenance overdue",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0012",
+      "type": "slips_trips",
+      "true_severity": "low",
+      "pred_severity": "low",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "obstruction",
+      "pred_root_cause": "obstruction",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0055",
+      "type": "slips_trips",
+      "true_severity": "medium",
+      "pred_severity": "medium",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "obstruction",
+      "pred_root_cause": "obstruction",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0005",
+      "type": "slips_trips",
+      "true_severity": "low",
+      "pred_severity": "low",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "wet surface",
+      "pred_root_cause": "wet surface",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0079",
+      "type": "slips_trips",
+      "true_severity": "medium",
+      "pred_severity": "medium",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "damaged flooring",
+      "pred_root_cause": "damaged flooring",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0072",
+      "type": "slips_trips",
+      "true_severity": "low",
+      "pred_severity": "low",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "damaged flooring",
+      "pred_root_cause": "damaged flooring",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0028",
+      "type": "rolling_stock",
+      "true_severity": "medium",
+      "pred_severity": "medium",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "software fault",
+      "pred_root_cause": "software fault",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0030",
+      "type": "slips_trips",
+      "true_severity": "low",
+      "pred_severity": "medium",
+      "severity_ok": false,
+      "severity_distance": 1,
+      "true_root_cause": "poor lighting",
+      "pred_root_cause": "poor lighting",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0065",
+      "type": "signal_passed_at_danger",
+      "true_severity": "high",
+      "pred_severity": "medium",
+      "severity_ok": false,
+      "severity_distance": 1,
+      "true_root_cause": "signal visibility",
+      "pred_root_cause": "signal visibility",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0069",
+      "type": "rolling_stock",
+      "true_severity": "medium",
+      "pred_severity": "medium",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "sensor failure",
+      "pred_root_cause": "sensor failure",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0078",
+      "type": "slips_trips",
+      "true_severity": "low",
+      "pred_severity": "low",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "poor lighting",
+      "pred_root_cause": "poor lighting",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0013",
+      "type": "track_defect",
+      "true_severity": "medium",
+      "pred_severity": "medium",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "manufacturing defect",
+      "pred_root_cause": "manufacturing defect",
+      "root_cause_ok": true
+    },
+    {
+      "id": "INC-2024-0046",
+      "type": "signal_passed_at_danger",
+      "true_severity": "high",
+      "pred_severity": "high",
+      "severity_ok": true,
+      "severity_distance": 0,
+      "true_root_cause": "distraction",
+      "pred_root_cause": "distraction",
+      "root_cause_ok": true
+    }
+  ]
+}

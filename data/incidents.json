@@ -1,0 +1,722 @@
+[
+  {
+    "id": "INC-2024-0001",
+    "date": "2024-03-30",
+    "location": "Clapham Junction",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 30 March 2024 during the late evening, train passed signal E350 at danger at or near Clapham Junction. Weather at the time was snow. Initial assessment points to driver error as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "driver error"
+  },
+  {
+    "id": "INC-2024-0002",
+    "date": "2025-07-28",
+    "location": "Manchester Piccadilly",
+    "incident_type": "slips_trips",
+    "narrative": "On 28 July 2025 during the early morning, passenger slip on platform at Manchester Piccadilly at or near Manchester Piccadilly. Weather at the time was high winds. Initial assessment points to poor lighting as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "poor lighting"
+  },
+  {
+    "id": "INC-2024-0003",
+    "date": "2025-03-08",
+    "location": "Swindon",
+    "incident_type": "track_defect",
+    "narrative": "On 08 March 2025 during the overnight, track geometry fault detected during inspection at or near Swindon. Weather at the time was heavy rain. Initial assessment points to ground movement as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "ground movement"
+  },
+  {
+    "id": "INC-2024-0004",
+    "date": "2024-12-18",
+    "location": "Bristol Temple Meads",
+    "incident_type": "level_crossing",
+    "narrative": "On 18 December 2024 during the midday, barrier failure at Bristol Temple Meads level crossing at or near Bristol Temple Meads. Weather at the time was clear. Initial assessment points to equipment failure as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "equipment failure"
+  },
+  {
+    "id": "INC-2024-0005",
+    "date": "2024-10-27",
+    "location": "Bristol Temple Meads",
+    "incident_type": "slips_trips",
+    "narrative": "On 27 October 2024 during the late evening, fall on stairs reported at Bristol Temple Meads station at or near Bristol Temple Meads. Weather at the time was clear. Initial assessment points to wet surface as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "wet surface"
+  },
+  {
+    "id": "INC-2024-0006",
+    "date": "2024-10-23",
+    "location": "Carlisle",
+    "incident_type": "slips_trips",
+    "narrative": "On 23 October 2024 during the morning peak, fall on stairs reported at Carlisle station at or near Carlisle. Weather at the time was snow. Initial assessment points to wet surface as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "wet surface"
+  },
+  {
+    "id": "INC-2024-0007",
+    "date": "2024-06-15",
+    "location": "Rugby",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 15 June 2024 during the midday, SPAD recorded at signal D987 at or near Rugby. Weather at the time was snow. Initial assessment points to braking distance misjudged as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "braking distance misjudged"
+  },
+  {
+    "id": "INC-2024-0008",
+    "date": "2025-06-30",
+    "location": "Leeds",
+    "incident_type": "level_crossing",
+    "narrative": "On 30 June 2025 during the morning peak, vehicle stranded on level crossing near Leeds at or near Leeds. Weather at the time was snow. Initial assessment points to equipment failure as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "equipment failure"
+  },
+  {
+    "id": "INC-2024-0009",
+    "date": "2024-08-22",
+    "location": "Doncaster",
+    "incident_type": "track_defect",
+    "narrative": "On 22 August 2024 during the early morning, track geometry fault detected during inspection at or near Doncaster. Weather at the time was fog. Initial assessment points to deferred maintenance as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "deferred maintenance"
+  },
+  {
+    "id": "INC-2024-0010",
+    "date": "2024-08-05",
+    "location": "Didcot",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 05 August 2024 during the midday, train passed signal F510 at danger at or near Didcot. Weather at the time was snow. Initial assessment points to signal visibility as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "signal visibility"
+  },
+  {
+    "id": "INC-2024-0011",
+    "date": "2024-09-26",
+    "location": "Manchester Piccadilly",
+    "incident_type": "rolling_stock",
+    "narrative": "On 26 September 2024 during the late evening, door fault on unit H246 in service at or near Manchester Piccadilly. Weather at the time was high winds. Initial assessment points to software fault as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "software fault"
+  },
+  {
+    "id": "INC-2024-0012",
+    "date": "2024-06-05",
+    "location": "Manchester Piccadilly",
+    "incident_type": "slips_trips",
+    "narrative": "On 05 June 2024 during the early morning, passenger slip on platform at Manchester Piccadilly at or near Manchester Piccadilly. Weather at the time was clear. Initial assessment points to obstruction as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "obstruction"
+  },
+  {
+    "id": "INC-2024-0013",
+    "date": "2024-09-14",
+    "location": "Didcot",
+    "incident_type": "track_defect",
+    "narrative": "On 14 September 2024 during the late evening, cracked rail reported near Didcot at or near Didcot. Weather at the time was ice. Initial assessment points to manufacturing defect as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "manufacturing defect"
+  },
+  {
+    "id": "INC-2024-0014",
+    "date": "2024-10-27",
+    "location": "Rugby",
+    "incident_type": "slips_trips",
+    "narrative": "On 27 October 2024 during the early morning, fall on stairs reported at Rugby station at or near Rugby. Weather at the time was fog. Initial assessment points to damaged flooring as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "damaged flooring"
+  },
+  {
+    "id": "INC-2024-0015",
+    "date": "2024-11-01",
+    "location": "Doncaster",
+    "incident_type": "rolling_stock",
+    "narrative": "On 01 November 2024 during the overnight, traction power loss on relief line service at or near Doncaster. Weather at the time was clear. Initial assessment points to software fault as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "software fault"
+  },
+  {
+    "id": "INC-2024-0016",
+    "date": "2024-01-20",
+    "location": "York",
+    "incident_type": "slips_trips",
+    "narrative": "On 20 January 2024 during the evening peak, passenger slip on platform at York at or near York. Weather at the time was fog. Initial assessment points to wet surface as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "wet surface"
+  },
+  {
+    "id": "INC-2024-0017",
+    "date": "2024-03-28",
+    "location": "Carlisle",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 28 March 2024 during the early morning, train passed signal F999 at danger at or near Carlisle. Weather at the time was high winds. Initial assessment points to driver error as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "driver error"
+  },
+  {
+    "id": "INC-2024-0018",
+    "date": "2025-06-24",
+    "location": "Rugby",
+    "incident_type": "rolling_stock",
+    "narrative": "On 24 June 2025 during the midday, door fault on unit B878 in service at or near Rugby. Weather at the time was heavy rain. Initial assessment points to sensor failure as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "sensor failure"
+  },
+  {
+    "id": "INC-2024-0019",
+    "date": "2025-01-17",
+    "location": "Manchester Piccadilly",
+    "incident_type": "slips_trips",
+    "narrative": "On 17 January 2025 during the overnight, fall on stairs reported at Manchester Piccadilly station at or near Manchester Piccadilly. Weather at the time was snow. Initial assessment points to damaged flooring as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "damaged flooring"
+  },
+  {
+    "id": "INC-2024-0020",
+    "date": "2025-07-21",
+    "location": "Carlisle",
+    "incident_type": "rolling_stock",
+    "narrative": "On 21 July 2025 during the late evening, door fault on unit H223 in service at or near Carlisle. Weather at the time was clear. Initial assessment points to component wear as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "component wear"
+  },
+  {
+    "id": "INC-2024-0021",
+    "date": "2024-12-04",
+    "location": "York",
+    "incident_type": "track_defect",
+    "narrative": "On 04 December 2024 during the early morning, track geometry fault detected during inspection at or near York. Weather at the time was clear. Initial assessment points to rail fatigue as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "rail fatigue"
+  },
+  {
+    "id": "INC-2024-0022",
+    "date": "2025-04-29",
+    "location": "Birmingham New Street",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 29 April 2025 during the late evening, train passed signal D385 at danger at or near Birmingham New Street. Weather at the time was high winds. Initial assessment points to signal visibility as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "signal visibility"
+  },
+  {
+    "id": "INC-2024-0023",
+    "date": "2024-12-28",
+    "location": "Didcot",
+    "incident_type": "track_defect",
+    "narrative": "On 28 December 2024 during the evening peak, rail defect identified on the main line at or near Didcot. Weather at the time was snow. Initial assessment points to rail fatigue as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "rail fatigue"
+  },
+  {
+    "id": "INC-2024-0024",
+    "date": "2024-12-13",
+    "location": "Manchester Piccadilly",
+    "incident_type": "rolling_stock",
+    "narrative": "On 13 December 2024 during the overnight, traction power loss on up line service at or near Manchester Piccadilly. Weather at the time was ice. Initial assessment points to component wear as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "component wear"
+  },
+  {
+    "id": "INC-2024-0025",
+    "date": "2024-09-12",
+    "location": "Crewe",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 12 September 2024 during the evening peak, train passed signal D294 at danger at or near Crewe. Weather at the time was fog. Initial assessment points to distraction as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "distraction"
+  },
+  {
+    "id": "INC-2024-0026",
+    "date": "2025-05-07",
+    "location": "Edinburgh Waverley",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 07 May 2025 during the evening peak, train passed signal B151 at danger at or near Edinburgh Waverley. Weather at the time was ice. Initial assessment points to signal visibility as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "signal visibility"
+  },
+  {
+    "id": "INC-2024-0027",
+    "date": "2024-10-19",
+    "location": "Rugby",
+    "incident_type": "track_defect",
+    "narrative": "On 19 October 2024 during the evening peak, cracked rail reported near Rugby at or near Rugby. Weather at the time was fog. Initial assessment points to rail fatigue as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "rail fatigue"
+  },
+  {
+    "id": "INC-2024-0028",
+    "date": "2025-07-09",
+    "location": "Swindon",
+    "incident_type": "rolling_stock",
+    "narrative": "On 09 July 2025 during the overnight, brake pressure anomaly reported on service H258 at or near Swindon. Weather at the time was high winds. Initial assessment points to software fault as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "software fault"
+  },
+  {
+    "id": "INC-2024-0029",
+    "date": "2024-02-28",
+    "location": "Swindon",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 28 February 2024 during the morning peak, driver reported overrunning signal F158 at or near Swindon. Weather at the time was high winds. Initial assessment points to distraction as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "distraction"
+  },
+  {
+    "id": "INC-2024-0030",
+    "date": "2024-09-09",
+    "location": "Reading West",
+    "incident_type": "slips_trips",
+    "narrative": "On 09 September 2024 during the late evening, fall on stairs reported at Reading West station at or near Reading West. Weather at the time was clear. Initial assessment points to poor lighting as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "poor lighting"
+  },
+  {
+    "id": "INC-2024-0031",
+    "date": "2024-11-17",
+    "location": "York",
+    "incident_type": "slips_trips",
+    "narrative": "On 17 November 2024 during the overnight, staff member reported trip hazard on concourse at York at or near York. Weather at the time was heavy rain. Initial assessment points to damaged flooring as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "damaged flooring"
+  },
+  {
+    "id": "INC-2024-0032",
+    "date": "2025-09-28",
+    "location": "Bristol Temple Meads",
+    "incident_type": "track_defect",
+    "narrative": "On 28 September 2025 during the evening peak, cracked rail reported near Bristol Temple Meads at or near Bristol Temple Meads. Weather at the time was clear. Initial assessment points to ground movement as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "ground movement"
+  },
+  {
+    "id": "INC-2024-0033",
+    "date": "2024-09-07",
+    "location": "Reading West",
+    "incident_type": "slips_trips",
+    "narrative": "On 07 September 2024 during the early morning, fall on stairs reported at Reading West station at or near Reading West. Weather at the time was fog. Initial assessment points to damaged flooring as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "damaged flooring"
+  },
+  {
+    "id": "INC-2024-0034",
+    "date": "2025-11-10",
+    "location": "Bristol Temple Meads",
+    "incident_type": "level_crossing",
+    "narrative": "On 10 November 2025 during the midday, vehicle stranded on level crossing near Bristol Temple Meads at or near Bristol Temple Meads. Weather at the time was high winds. Initial assessment points to equipment failure as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "equipment failure"
+  },
+  {
+    "id": "INC-2024-0035",
+    "date": "2024-08-03",
+    "location": "Carlisle",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 03 August 2024 during the late evening, train passed signal C370 at danger at or near Carlisle. Weather at the time was fog. Initial assessment points to signal visibility as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "signal visibility"
+  },
+  {
+    "id": "INC-2024-0036",
+    "date": "2024-10-10",
+    "location": "Crewe",
+    "incident_type": "level_crossing",
+    "narrative": "On 10 October 2024 during the evening peak, pedestrian misuse reported at Crewe crossing at or near Crewe. Weather at the time was snow. Initial assessment points to equipment failure as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "equipment failure"
+  },
+  {
+    "id": "INC-2024-0037",
+    "date": "2025-07-18",
+    "location": "Clapham Junction",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 18 July 2025 during the evening peak, driver reported overrunning signal F889 at or near Clapham Junction. Weather at the time was snow. Initial assessment points to braking distance misjudged as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "braking distance misjudged"
+  },
+  {
+    "id": "INC-2024-0038",
+    "date": "2025-08-19",
+    "location": "Birmingham New Street",
+    "incident_type": "rolling_stock",
+    "narrative": "On 19 August 2025 during the midday, traction power loss on up line service at or near Birmingham New Street. Weather at the time was clear. Initial assessment points to software fault as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "software fault"
+  },
+  {
+    "id": "INC-2024-0039",
+    "date": "2025-11-29",
+    "location": "Doncaster",
+    "incident_type": "slips_trips",
+    "narrative": "On 29 November 2025 during the morning peak, staff member reported trip hazard on concourse at Doncaster at or near Doncaster. Weather at the time was fog. Initial assessment points to damaged flooring as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "damaged flooring"
+  },
+  {
+    "id": "INC-2024-0040",
+    "date": "2025-02-26",
+    "location": "Peterborough",
+    "incident_type": "track_defect",
+    "narrative": "On 26 February 2025 during the morning peak, track geometry fault detected during inspection at or near Peterborough. Weather at the time was heavy rain. Initial assessment points to deferred maintenance as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "deferred maintenance"
+  },
+  {
+    "id": "INC-2024-0041",
+    "date": "2024-04-20",
+    "location": "Doncaster",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 20 April 2024 during the overnight, driver reported overrunning signal F901 at or near Doncaster. Weather at the time was heavy rain. Initial assessment points to signal visibility as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "signal visibility"
+  },
+  {
+    "id": "INC-2024-0042",
+    "date": "2024-08-21",
+    "location": "Rugby",
+    "incident_type": "rolling_stock",
+    "narrative": "On 21 August 2024 during the midday, door fault on unit A979 in service at or near Rugby. Weather at the time was fog. Initial assessment points to software fault as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "software fault"
+  },
+  {
+    "id": "INC-2024-0043",
+    "date": "2025-06-05",
+    "location": "Clapham Junction",
+    "incident_type": "track_defect",
+    "narrative": "On 05 June 2025 during the overnight, cracked rail reported near Clapham Junction at or near Clapham Junction. Weather at the time was fog. Initial assessment points to rail fatigue as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "rail fatigue"
+  },
+  {
+    "id": "INC-2024-0044",
+    "date": "2024-04-21",
+    "location": "Peterborough",
+    "incident_type": "rolling_stock",
+    "narrative": "On 21 April 2024 during the early morning, brake pressure anomaly reported on service F128 at or near Peterborough. Weather at the time was fog. Initial assessment points to software fault as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "software fault"
+  },
+  {
+    "id": "INC-2024-0045",
+    "date": "2024-09-17",
+    "location": "Manchester Piccadilly",
+    "incident_type": "slips_trips",
+    "narrative": "On 17 September 2024 during the morning peak, staff member reported trip hazard on concourse at Manchester Piccadilly at or near Manchester Piccadilly. Weather at the time was high winds. Initial assessment points to wet surface as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "wet surface"
+  },
+  {
+    "id": "INC-2024-0046",
+    "date": "2025-09-30",
+    "location": "Swindon",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 30 September 2025 during the midday, SPAD recorded at signal G101 at or near Swindon. Weather at the time was snow. Initial assessment points to distraction as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "distraction"
+  },
+  {
+    "id": "INC-2024-0047",
+    "date": "2025-02-16",
+    "location": "Peterborough",
+    "incident_type": "level_crossing",
+    "narrative": "On 16 February 2025 during the midday, vehicle stranded on level crossing near Peterborough at or near Peterborough. Weather at the time was ice. Initial assessment points to barrier timing as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "barrier timing"
+  },
+  {
+    "id": "INC-2024-0048",
+    "date": "2025-09-22",
+    "location": "Birmingham New Street",
+    "incident_type": "level_crossing",
+    "narrative": "On 22 September 2025 during the morning peak, vehicle stranded on level crossing near Birmingham New Street at or near Birmingham New Street. Weather at the time was snow. Initial assessment points to poor sightlines as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "poor sightlines"
+  },
+  {
+    "id": "INC-2024-0049",
+    "date": "2025-09-13",
+    "location": "Bristol Temple Meads",
+    "incident_type": "slips_trips",
+    "narrative": "On 13 September 2025 during the late evening, staff member reported trip hazard on concourse at Bristol Temple Meads at or near Bristol Temple Meads. Weather at the time was ice. Initial assessment points to damaged flooring as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "damaged flooring"
+  },
+  {
+    "id": "INC-2024-0050",
+    "date": "2024-03-27",
+    "location": "Edinburgh Waverley",
+    "incident_type": "level_crossing",
+    "narrative": "On 27 March 2024 during the overnight, vehicle stranded on level crossing near Edinburgh Waverley at or near Edinburgh Waverley. Weather at the time was heavy rain. Initial assessment points to poor sightlines as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "poor sightlines"
+  },
+  {
+    "id": "INC-2024-0051",
+    "date": "2024-01-26",
+    "location": "Birmingham New Street",
+    "incident_type": "level_crossing",
+    "narrative": "On 26 January 2024 during the morning peak, vehicle stranded on level crossing near Birmingham New Street at or near Birmingham New Street. Weather at the time was heavy rain. Initial assessment points to barrier timing as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "barrier timing"
+  },
+  {
+    "id": "INC-2024-0052",
+    "date": "2025-12-14",
+    "location": "Crewe",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 14 December 2025 during the morning peak, SPAD recorded at signal H725 at or near Crewe. Weather at the time was high winds. Initial assessment points to distraction as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "distraction"
+  },
+  {
+    "id": "INC-2024-0053",
+    "date": "2024-06-29",
+    "location": "Edinburgh Waverley",
+    "incident_type": "rolling_stock",
+    "narrative": "On 29 June 2024 during the morning peak, traction power loss on down line service at or near Edinburgh Waverley. Weather at the time was ice. Initial assessment points to component wear as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "component wear"
+  },
+  {
+    "id": "INC-2024-0054",
+    "date": "2025-06-27",
+    "location": "Edinburgh Waverley",
+    "incident_type": "slips_trips",
+    "narrative": "On 27 June 2025 during the overnight, passenger slip on platform at Edinburgh Waverley at or near Edinburgh Waverley. Weather at the time was ice. Initial assessment points to obstruction as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "obstruction"
+  },
+  {
+    "id": "INC-2024-0055",
+    "date": "2025-05-01",
+    "location": "York",
+    "incident_type": "slips_trips",
+    "narrative": "On 01 May 2025 during the morning peak, fall on stairs reported at York station at or near York. Weather at the time was ice. Initial assessment points to obstruction as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "obstruction"
+  },
+  {
+    "id": "INC-2024-0056",
+    "date": "2025-03-26",
+    "location": "Bristol Temple Meads",
+    "incident_type": "rolling_stock",
+    "narrative": "On 26 March 2025 during the midday, traction power loss on relief line service at or near Bristol Temple Meads. Weather at the time was heavy rain. Initial assessment points to sensor failure as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "sensor failure"
+  },
+  {
+    "id": "INC-2024-0057",
+    "date": "2024-06-03",
+    "location": "Swindon",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 03 June 2024 during the morning peak, SPAD recorded at signal E340 at or near Swindon. Weather at the time was clear. Initial assessment points to braking distance misjudged as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "braking distance misjudged"
+  },
+  {
+    "id": "INC-2024-0058",
+    "date": "2025-04-22",
+    "location": "Manchester Piccadilly",
+    "incident_type": "track_defect",
+    "narrative": "On 22 April 2025 during the late evening, rail defect identified on the down line at or near Manchester Piccadilly. Weather at the time was fog. Initial assessment points to manufacturing defect as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "manufacturing defect"
+  },
+  {
+    "id": "INC-2024-0059",
+    "date": "2024-01-07",
+    "location": "Clapham Junction",
+    "incident_type": "rolling_stock",
+    "narrative": "On 07 January 2024 during the evening peak, brake pressure anomaly reported on service D952 at or near Clapham Junction. Weather at the time was ice. Initial assessment points to component wear as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "component wear"
+  },
+  {
+    "id": "INC-2024-0060",
+    "date": "2025-03-22",
+    "location": "Bristol Temple Meads",
+    "incident_type": "level_crossing",
+    "narrative": "On 22 March 2025 during the midday, vehicle stranded on level crossing near Bristol Temple Meads at or near Bristol Temple Meads. Weather at the time was heavy rain. Initial assessment points to public misuse as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "public misuse"
+  },
+  {
+    "id": "INC-2024-0061",
+    "date": "2025-06-30",
+    "location": "Clapham Junction",
+    "incident_type": "rolling_stock",
+    "narrative": "On 30 June 2025 during the late evening, traction power loss on main line service at or near Clapham Junction. Weather at the time was heavy rain. Initial assessment points to software fault as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "software fault"
+  },
+  {
+    "id": "INC-2024-0062",
+    "date": "2024-02-21",
+    "location": "Carlisle",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 21 February 2024 during the morning peak, train passed signal G706 at danger at or near Carlisle. Weather at the time was ice. Initial assessment points to distraction as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "distraction"
+  },
+  {
+    "id": "INC-2024-0063",
+    "date": "2024-09-15",
+    "location": "Manchester Piccadilly",
+    "incident_type": "level_crossing",
+    "narrative": "On 15 September 2024 during the evening peak, pedestrian misuse reported at Manchester Piccadilly crossing at or near Manchester Piccadilly. Weather at the time was fog. Initial assessment points to barrier timing as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "barrier timing"
+  },
+  {
+    "id": "INC-2024-0064",
+    "date": "2024-02-11",
+    "location": "Edinburgh Waverley",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 11 February 2024 during the overnight, SPAD recorded at signal A867 at or near Edinburgh Waverley. Weather at the time was clear. Initial assessment points to signal visibility as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "signal visibility"
+  },
+  {
+    "id": "INC-2024-0065",
+    "date": "2025-11-16",
+    "location": "Crewe",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 16 November 2025 during the evening peak, driver reported overrunning signal D959 at or near Crewe. Weather at the time was heavy rain. Initial assessment points to signal visibility as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "signal visibility"
+  },
+  {
+    "id": "INC-2024-0066",
+    "date": "2024-04-27",
+    "location": "York",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 27 April 2024 during the overnight, SPAD recorded at signal D576 at or near York. Weather at the time was high winds. Initial assessment points to signal visibility as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "signal visibility"
+  },
+  {
+    "id": "INC-2024-0067",
+    "date": "2024-03-18",
+    "location": "Bristol Temple Meads",
+    "incident_type": "track_defect",
+    "narrative": "On 18 March 2024 during the morning peak, cracked rail reported near Bristol Temple Meads at or near Bristol Temple Meads. Weather at the time was snow. Initial assessment points to manufacturing defect as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "manufacturing defect"
+  },
+  {
+    "id": "INC-2024-0068",
+    "date": "2025-06-29",
+    "location": "Swindon",
+    "incident_type": "slips_trips",
+    "narrative": "On 29 June 2025 during the midday, fall on stairs reported at Swindon station at or near Swindon. Weather at the time was clear. Initial assessment points to wet surface as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "wet surface"
+  },
+  {
+    "id": "INC-2024-0069",
+    "date": "2025-01-05",
+    "location": "Peterborough",
+    "incident_type": "rolling_stock",
+    "narrative": "On 05 January 2025 during the evening peak, door fault on unit F170 in service at or near Peterborough. Weather at the time was clear. Initial assessment points to sensor failure as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "sensor failure"
+  },
+  {
+    "id": "INC-2024-0070",
+    "date": "2025-04-21",
+    "location": "Swindon",
+    "incident_type": "rolling_stock",
+    "narrative": "On 21 April 2025 during the evening peak, traction power loss on down line service at or near Swindon. Weather at the time was high winds. Initial assessment points to maintenance overdue as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "maintenance overdue"
+  },
+  {
+    "id": "INC-2024-0071",
+    "date": "2025-08-06",
+    "location": "Rugby",
+    "incident_type": "rolling_stock",
+    "narrative": "On 06 August 2025 during the evening peak, door fault on unit E430 in service at or near Rugby. Weather at the time was heavy rain. Initial assessment points to maintenance overdue as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "maintenance overdue"
+  },
+  {
+    "id": "INC-2024-0072",
+    "date": "2024-12-29",
+    "location": "Peterborough",
+    "incident_type": "slips_trips",
+    "narrative": "On 29 December 2024 during the morning peak, staff member reported trip hazard on concourse at Peterborough at or near Peterborough. Weather at the time was ice. Initial assessment points to damaged flooring as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "damaged flooring"
+  },
+  {
+    "id": "INC-2024-0073",
+    "date": "2024-09-04",
+    "location": "Leeds",
+    "incident_type": "level_crossing",
+    "narrative": "On 04 September 2024 during the early morning, vehicle stranded on level crossing near Leeds at or near Leeds. Weather at the time was heavy rain. Initial assessment points to equipment failure as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "equipment failure"
+  },
+  {
+    "id": "INC-2024-0074",
+    "date": "2024-10-28",
+    "location": "Edinburgh Waverley",
+    "incident_type": "rolling_stock",
+    "narrative": "On 28 October 2024 during the early morning, traction power loss on main line service at or near Edinburgh Waverley. Weather at the time was clear. Initial assessment points to sensor failure as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "sensor failure"
+  },
+  {
+    "id": "INC-2024-0075",
+    "date": "2024-12-04",
+    "location": "Manchester Piccadilly",
+    "incident_type": "track_defect",
+    "narrative": "On 04 December 2024 during the late evening, cracked rail reported near Manchester Piccadilly at or near Manchester Piccadilly. Weather at the time was snow. Initial assessment points to ground movement as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "ground movement"
+  },
+  {
+    "id": "INC-2024-0076",
+    "date": "2024-11-19",
+    "location": "Swindon",
+    "incident_type": "level_crossing",
+    "narrative": "On 19 November 2024 during the morning peak, pedestrian misuse reported at Swindon crossing at or near Swindon. Weather at the time was snow. Initial assessment points to public misuse as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "public misuse"
+  },
+  {
+    "id": "INC-2024-0077",
+    "date": "2025-06-21",
+    "location": "Swindon",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 21 June 2025 during the late evening, driver reported overrunning signal C296 at or near Swindon. Weather at the time was snow. Initial assessment points to distraction as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "distraction"
+  },
+  {
+    "id": "INC-2024-0078",
+    "date": "2024-01-15",
+    "location": "Bristol Temple Meads",
+    "incident_type": "slips_trips",
+    "narrative": "On 15 January 2024 during the midday, staff member reported trip hazard on concourse at Bristol Temple Meads at or near Bristol Temple Meads. Weather at the time was heavy rain. Initial assessment points to poor lighting as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was not considered necessary.",
+    "true_severity": "low",
+    "true_root_cause": "poor lighting"
+  },
+  {
+    "id": "INC-2024-0079",
+    "date": "2025-05-17",
+    "location": "Doncaster",
+    "incident_type": "slips_trips",
+    "narrative": "On 17 May 2025 during the overnight, fall on stairs reported at Doncaster station at or near Doncaster. Weather at the time was heavy rain. Initial assessment points to damaged flooring as a contributing factor. No injuries were reported and services resumed shortly after. Further investigation was recommended.",
+    "true_severity": "medium",
+    "true_root_cause": "damaged flooring"
+  },
+  {
+    "id": "INC-2024-0080",
+    "date": "2024-02-22",
+    "location": "Rugby",
+    "incident_type": "signal_passed_at_danger",
+    "narrative": "On 22 February 2024 during the morning peak, SPAD recorded at signal A687 at or near Rugby. Weather at the time was fog. Initial assessment points to distraction as a contributing factor. No serious injuries were reported though the incident had potential for harm. Further investigation was recommended.",
+    "true_severity": "high",
+    "true_root_cause": "distraction"
+  }
+]
